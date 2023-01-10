@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
 > Hello-Microverse is project for microverse day 2 where aims is to be interacting with github and be able to use linter.
 
