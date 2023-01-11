@@ -1,4 +1,4 @@
-## Copyright 2021, [Oscar Byiringiro]
+## Copyright 2021, [Oscar byiringiro]
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
